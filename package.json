@@ -30,7 +30,7 @@
   },
   "homepage": "https://github.com/DocSpring/craco-antd#readme",
   "devDependencies": {
-    "@craco/craco": "^5.7.0",
+    "@craco/craco": "^5.9.0",
     "clone": "^2.1.2",
     "coveralls": "^3.1.0",
     "eslint": "^7.11.0",
